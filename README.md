@@ -10,7 +10,7 @@
 
 **An interactive platform for mastering product analytics with hands-on learning and real-world applications**
 
-[🚀 Get Started](#-quick-start) • [📖 Documentation](#-table-of-contents) • [🤝 Contributing](#-contributing) • [💡 Features](#-features)
+[🚀 Get Started](#-quick-start) • [📖 Documentation](#-table-of-contents) • [🤝 Contributing](#-contributing) • [💡 Features](#-features) • [📋 Installation Guide](docs/INSTALLATION.md) • [📚 Usage Guide](docs/USAGE.md)
 
 </div>
 
@@ -62,11 +62,12 @@ The **Product Analytics Handbook** is a comprehensive, interactive learning plat
 3. [Quick Start](#-quick-start)
 4. [Installation](#-installation)
 5. [Usage](#-usage)
-6. [Project Structure](#-project-structure)
-7. [Technologies Used](#-technologies-used)
-8. [Contributing](#-contributing)
-9. [License](#-license)
-10. [Acknowledgments](#-acknowledgments)
+6. [Documentation](#-documentation)
+7. [Project Structure](#-project-structure)
+8. [Technologies Used](#-technologies-used)
+9. [Contributing](#-contributing)
+10. [License](#-license)
+11. [Acknowledgments](#-acknowledgments)
 
 ---
 
@@ -158,6 +159,25 @@ streamlit run streamlit_app/Product_Analytics/main.py
 
 ---
 
+## 📚 Documentation
+
+Comprehensive guides to help you get the most out of the Product Analytics Handbook:
+
+- 📋 **[Installation Guide](docs/INSTALLATION.md)** - Detailed setup instructions for all platforms
+- 📖 **[Usage Guide](docs/USAGE.md)** - Learn how to navigate and use all features
+- 🤝 **[Contributing Guide](CONTRIBUTING.md)** - Help improve this project
+- 🔒 **[Security Policy](SECURITY.md)** - Report vulnerabilities and security best practices
+- 📝 **[Changelog](CHANGELOG.md)** - Track all project changes and versions
+
+### Quick Links
+
+- **Need help installing?** → [Installation Guide](docs/INSTALLATION.md)
+- **First time user?** → [Usage Guide](docs/USAGE.md)
+- **Want to contribute?** → [Contributing Guide](CONTRIBUTING.md)
+- **Found a bug?** → [Open an Issue](https://github.com/Analytical-Guide/Product-Analytical-Apps/issues/new/choose)
+
+---
+
 ## 📁 Project Structure
 
 ```
@@ -193,11 +213,24 @@ Product-Analytical-Apps/
 │       │   ├── viz_utils.py
 │       │   └── style_utils.py
 │       └── data/                   # Sample datasets
+├── docs/                           # Documentation
+│   ├── INSTALLATION.md            # Installation guide
+│   ├── USAGE.md                   # Usage guide
+│   └── images/                     # Screenshots and assets
 ├── .github/
+│   ├── ISSUE_TEMPLATE/            # Issue templates
+│   │   ├── bug_report.md
+│   │   ├── feature_request.md
+│   │   └── documentation.md
+│   ├── PULL_REQUEST_TEMPLATE.md   # PR template
 │   └── workflows/                  # CI/CD workflows
+├── .gitignore                      # Git ignore rules
+├── CHANGELOG.md                    # Version history
 ├── CODE_OF_CONDUCT.md             # Community guidelines
+├── CONTRIBUTING.md                 # Contribution guide
 ├── LICENSE                         # MIT License
-└── README.md                       # This file
+├── README.md                       # This file
+└── SECURITY.md                     # Security policy
 ```
 
 ---
