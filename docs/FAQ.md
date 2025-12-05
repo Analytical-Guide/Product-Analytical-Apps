@@ -224,7 +224,7 @@ Great! [Open a feature request](https://github.com/Analytical-Guide/Product-Anal
 2. Create a feature branch
 3. Make your changes
 4. Test thoroughly
-5. Submit a pull request using our [PR template](.github/PULL_REQUEST_TEMPLATE.md)
+5. Submit a pull request using our [PR template](../.github/PULL_REQUEST_TEMPLATE.md)
 
 ### Can I add my own analytical examples?
 
