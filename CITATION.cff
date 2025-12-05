@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Product Analytics Handbook"
+abstract: "An interactive platform for mastering product analytics with hands-on learning and real-world applications"
+authors:
+  - family-names: "Shamouilian"
+    given-names: "Moshe"
+repository-code: "https://github.com/Analytical-Guide/Product-Analytical-Apps"
+url: "https://github.com/Analytical-Guide/Product-Analytical-Apps"
+keywords:
+  - product-analytics
+  - data-science
+  - statistics
+  - machine-learning
+  - streamlit
+  - interactive-learning
+  - data-visualization
+  - hypothesis-testing
+  - ab-testing
+  - time-series
+  - churn-analysis
+  - marketing-analytics
+license: MIT
+version: 1.0.0
+date-released: 2024-01-01
