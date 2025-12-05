@@ -165,6 +165,7 @@ Comprehensive guides to help you get the most out of the Product Analytics Handb
 
 - 📋 **[Installation Guide](docs/INSTALLATION.md)** - Detailed setup instructions for all platforms
 - 📖 **[Usage Guide](docs/USAGE.md)** - Learn how to navigate and use all features
+- ❓ **[FAQ](docs/FAQ.md)** - Frequently asked questions and answers
 - 🤝 **[Contributing Guide](CONTRIBUTING.md)** - Help improve this project
 - 🔒 **[Security Policy](SECURITY.md)** - Report vulnerabilities and security best practices
 - 📝 **[Changelog](CHANGELOG.md)** - Track all project changes and versions
@@ -173,6 +174,7 @@ Comprehensive guides to help you get the most out of the Product Analytics Handb
 
 - **Need help installing?** → [Installation Guide](docs/INSTALLATION.md)
 - **First time user?** → [Usage Guide](docs/USAGE.md)
+- **Have questions?** → [FAQ](docs/FAQ.md)
 - **Want to contribute?** → [Contributing Guide](CONTRIBUTING.md)
 - **Found a bug?** → [Open an Issue](https://github.com/Analytical-Guide/Product-Analytical-Apps/issues/new/choose)
 
@@ -214,6 +216,7 @@ Product-Analytical-Apps/
 │       │   └── style_utils.py
 │       └── data/                   # Sample datasets
 ├── docs/                           # Documentation
+│   ├── FAQ.md                     # Frequently asked questions
 │   ├── INSTALLATION.md            # Installation guide
 │   ├── USAGE.md                   # Usage guide
 │   └── images/                     # Screenshots and assets
@@ -225,7 +228,9 @@ Product-Analytical-Apps/
 │   ├── PULL_REQUEST_TEMPLATE.md   # PR template
 │   └── workflows/                  # CI/CD workflows
 ├── .gitignore                      # Git ignore rules
+├── AUTHORS.md                      # Contributors list
 ├── CHANGELOG.md                    # Version history
+├── CITATION.cff                    # Citation information
 ├── CODE_OF_CONDUCT.md             # Community guidelines
 ├── CONTRIBUTING.md                 # Contribution guide
 ├── LICENSE                         # MIT License
